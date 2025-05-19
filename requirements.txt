@@ -1,0 +1,7 @@
+fastapi
+websockets
+openai==0.28
+firebase-admin
+python-multipart
+uvicorn[standard]
+python-dotenv

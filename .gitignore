@@ -1,0 +1,6 @@
+.env
+firebase_key.json
+firebase_config.py
+__pycache__/
+.venv/
+llm_debug.json
